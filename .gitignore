@@ -15,4 +15,4 @@ yarn-error.log
 /.vscode
 credentials.txt
 /app/Repository
-database/migrations
+/database/migrations
